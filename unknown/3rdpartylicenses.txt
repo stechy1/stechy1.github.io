@@ -356,11 +356,11 @@ THE SOFTWARE.
 @angular/animations
 MIT
 
+@angular/material/chips
+
 @angular/material/core
 
 @angular/material/list
-
-@angular/material/chips
 
 @angular/material/menu
 
