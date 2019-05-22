@@ -1,54 +1,58 @@
 {
   "configVersion": 1,
-  "index": "https://stechy1.github.io/unknown/index.html",
+  "index": "https://stechy1.github.io/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://stechy1.github.io/unknown/favicon.ico",
-        "https://stechy1.github.io/unknown/index.html",
-        "https://stechy1.github.io/unknown/main.e588e7e9f619915fde8e.js",
-        "https://stechy1.github.io/unknown/polyfills.3eb7881d3a00da6c675e.js",
-        "https://stechy1.github.io/unknown/runtime.a5dd35324ddfd942bef1.js",
-        "https://stechy1.github.io/unknown/styles.ca745a5c9ca4cd8b2a21.css"
+        "https://stechy1.github.io/env.js",
+        "https://stechy1.github.io/favicon.ico",
+        "https://stechy1.github.io/index.html",
+        "https://stechy1.github.io/main.d123ba49d4f4f7697436.js",
+        "https://stechy1.github.io/polyfills.3eb7881d3a00da6c675e.js",
+        "https://stechy1.github.io/runtime.a5dd35324ddfd942bef1.js",
+        "https://stechy1.github.io/styles.ca745a5c9ca4cd8b2a21.css"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons"
+      ]
     },
     {
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://stechy1.github.io/unknown/assets/icons/icon-128x128.png",
-        "https://stechy1.github.io/unknown/assets/icons/icon-144x144.png",
-        "https://stechy1.github.io/unknown/assets/icons/icon-152x152.png",
-        "https://stechy1.github.io/unknown/assets/icons/icon-192x192.png",
-        "https://stechy1.github.io/unknown/assets/icons/icon-384x384.png",
-        "https://stechy1.github.io/unknown/assets/icons/icon-512x512.png",
-        "https://stechy1.github.io/unknown/assets/icons/icon-72x72.png",
-        "https://stechy1.github.io/unknown/assets/icons/icon-96x96.png"
+        "https://stechy1.github.io/assets/icons/logo-128x128.png",
+        "https://stechy1.github.io/assets/icons/logo-144x144.png",
+        "https://stechy1.github.io/assets/icons/logo-152x152.png",
+        "https://stechy1.github.io/assets/icons/logo-192x192.png",
+        "https://stechy1.github.io/assets/icons/logo-384x384.png",
+        "https://stechy1.github.io/assets/icons/logo-512x512.png",
+        "https://stechy1.github.io/assets/icons/logo-72x72.png",
+        "https://stechy1.github.io/assets/icons/logo-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://stechy1.github.io/unknown/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://stechy1.github.io/unknown/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://stechy1.github.io/unknown/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://stechy1.github.io/unknown/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://stechy1.github.io/unknown/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://stechy1.github.io/unknown/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://stechy1.github.io/unknown/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://stechy1.github.io/unknown/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://stechy1.github.io/unknown/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://stechy1.github.io/unknown/index.html": "bd7c48b2b464d9f2d41d1b27eb3ee6a70ea16fe9",
-    "https://stechy1.github.io/unknown/main.e588e7e9f619915fde8e.js": "16580398e820729961531922745eb8392808ba24",
-    "https://stechy1.github.io/unknown/polyfills.3eb7881d3a00da6c675e.js": "6946e10a03311677a01490b8e91741668e64e17e",
-    "https://stechy1.github.io/unknown/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "https://stechy1.github.io/unknown/styles.ca745a5c9ca4cd8b2a21.css": "97a8e30df0d40354e29609e6f48e89a851cd08a1"
+    "https://stechy1.github.io/assets/icons/logo-128x128.png": "5b44db4d219ebb1eef5a06034244d5e950bf277c",
+    "https://stechy1.github.io/assets/icons/logo-144x144.png": "19f2611c7efdc6a524ce80788466dd2e2f22211c",
+    "https://stechy1.github.io/assets/icons/logo-152x152.png": "694af6413c60fa20c31d6d696889455b90079b34",
+    "https://stechy1.github.io/assets/icons/logo-192x192.png": "dea6c5f2966b877714bb4c80bc7872ad11276d5c",
+    "https://stechy1.github.io/assets/icons/logo-384x384.png": "1f9a65f239cedec3adff7ddc18855f23f2efe1a8",
+    "https://stechy1.github.io/assets/icons/logo-512x512.png": "7f06a76c0737169edb61ce4c5dce7657bd6b6f04",
+    "https://stechy1.github.io/assets/icons/logo-72x72.png": "3d2bd9a3ef70b56a806290828227a81bcf838966",
+    "https://stechy1.github.io/assets/icons/logo-96x96.png": "1e1407add3244aa9fbce87733a0dc3ac77f68a9d",
+    "https://stechy1.github.io/env.js": "4440cb98f5635e8be80de1d5db0564c8dca674dc",
+    "https://stechy1.github.io/favicon.ico": "64bccdeb21537ab95574f4e7002767bf6226fda3",
+    "https://stechy1.github.io/index.html": "44d55855722edbc143af1e3dbdb1c58d60c3a768",
+    "https://stechy1.github.io/main.d123ba49d4f4f7697436.js": "1876974d839bc912dafbe554a8b8d8acb8b2a78a",
+    "https://stechy1.github.io/polyfills.3eb7881d3a00da6c675e.js": "6946e10a03311677a01490b8e91741668e64e17e",
+    "https://stechy1.github.io/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://stechy1.github.io/styles.ca745a5c9ca4cd8b2a21.css": "97a8e30df0d40354e29609e6f48e89a851cd08a1"
   },
   "navigationUrls": [
     {

@@ -422,6 +422,9 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
+@firebase/firestore
+Apache-2.0
+
 @angular/core
 MIT
 
@@ -449,6 +452,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+
+firebase/app
 
 tslib
 Apache-2.0
@@ -509,6 +514,15 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 END OF TERMS AND CONDITIONS
 
 
+@firebase/logger
+Apache-2.0
+
+@firebase/app
+Apache-2.0
+
+@firebase/webchannel-wrapper
+Apache-2.0
+
 @angular/common
 MIT
 
@@ -549,8 +563,16 @@ SOFTWARE.
 @angular/animations
 MIT
 
-@angular/service-worker
+@angular/fire
 MIT
+
+@angular/fire/firestore
+MIT
+
+firebase/firestore
+
+@firebase/util
+Apache-2.0
 
 zone.js
 MIT
